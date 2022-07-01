@@ -5,4 +5,4 @@ Currently writing their dissertation on [convolution resynthesis](<https://en.wi
 
 They will be updating this page, and their site semi-frequently with updates on their learnings & various pursuits in their interests.
 
-> And in your hand brandishing your night- lighting flame, with god-possessed frenzy, you went to the vales of Eleusis.
+> “ And in your hand brandishing your night- lighting flame, with god-possessed frenzy, you went to the vales of Eleusis. ”
