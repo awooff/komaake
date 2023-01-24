@@ -1,4 +1,4 @@
-## Juno is an academic researcher.
+## Kae is an academic researcher.
 
 Their main interests lie in music/audio production, cybernetics & neo-classical literature.
 Currently writing their dissertation on [convolution resynthesis](<https://en.wikipedia.org/wiki/Convolution_theorem>) in music.
